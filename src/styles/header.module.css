@@ -107,9 +107,17 @@
   color: rgb(255, 255, 255);
   text-decoration: none;
 }
-.HdrCont .comp .txt :hover {
-  text-decoration: underline;
+
+.HdrCont .comp .txt:hover {
+  color: #ff6600;
+  transition: color 0.3s ease-in-out;
 }
+
+
+.HdrCont .comp .txt {
+  transition: color 0.3s ease-in-out;
+}
+
 .HdrCont .comp .Iconsss {
   margin-right: 0;
   display: flex;

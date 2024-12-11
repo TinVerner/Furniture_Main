@@ -109,7 +109,6 @@ export const About_Us = () => {
             </div>
 
 
-
             <div className='AbtExamples'>
                 <h2>Примеры наших работ</h2>
 
@@ -123,9 +122,7 @@ export const About_Us = () => {
                     <img src={ex7} className='exmpimg7'></img>
                 </div>
             </div>
-            
         </div>
-        
         )
 }
 

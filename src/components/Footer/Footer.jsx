@@ -18,7 +18,7 @@ export const Footer = () => {
 
             <div className='CaptFooter'>
                 <p>
-                   ФИО
+                   Woodley | Since 2024
                 </p>
             </div>
             

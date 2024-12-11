@@ -13,8 +13,8 @@ import classes from './../../styles/CatalogMainPage.module.css';
 
 const CatalogMainPage = (props) => {
 
-    const [data, setdata] = useState(CatalogInf); // хуки - функции которые помогают обрабатывать события в js
-    const [order, setorder] = useState("ASC");  // assending - возрастающий
+    const [data, setdata] = useState(CatalogInf);
+    const [order, setorder] = useState("ASC");
    
     const sorting = (col) => {
         if (order === "ASC") {
