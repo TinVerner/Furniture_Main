@@ -98,7 +98,7 @@ function CatalogInfPage(props) {
                     </div>
             </div>
 
-        </div>//container
+        </div>
     );
 }
 

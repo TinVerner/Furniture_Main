@@ -18,7 +18,7 @@ export const Footer = () => {
 
             <div className='CaptFooter'>
                 <p>
-                   Woodley | Since 2024
+                © 2024 Woodley. Все права защищены.
                 </p>
             </div>
             
